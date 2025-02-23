@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Traffic Engineering on Le Portfolio de Florent Hardy</title><link>http://localhost:1313/tags/traffic-engineering/</link><description>Recent content in Traffic Engineering on Le Portfolio de Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/traffic-engineering/index.xml" rel="self" type="application/rss+xml"/><item><title>Stage 2024 : Segment routing 🤝 Flowlet switching</title><link>http://localhost:1313/projects/sr_flowlet/</link><pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/sr_flowlet/</guid><description>&lt;h3 id="segment-routing--flowlet-switching">Segment routing 🤝 Flowlet switching&lt;/h3>
+&lt;ul>
+&lt;li>Juin 2024 - Juillet 2024&lt;/li>
+&lt;/ul>
+&lt;p>Pour mon stage de Master 1 j&amp;rsquo;ai travaillé au sein du Laboratoire iCube avec mes encadrants Pascal Mérindol et Jean-Romain Luttringer.&lt;/p>
+&lt;p>Nous avons travaillé sur une solution combinant le Segment Routing et le Flowlet Swicthing.&lt;/p></description></item></channel></rss>
