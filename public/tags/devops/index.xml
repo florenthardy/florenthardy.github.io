@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DevOps on Florent Hardy</title><link>//localhost:1313/tags/devops/</link><description>Recent content in DevOps on Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/devops/index.xml" rel="self" type="application/rss+xml"/><item><title>Projet Master : Infrastructure système et réseau de supervision d'une flotte de véhicules</title><link>//localhost:1313/projects/projetmaster/</link><pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/projetmaster/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DevOps on Florent Hardy</title><link>//localhost:1313/portfolio/tags/devops/</link><description>Recent content in DevOps on Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/portfolio/tags/devops/index.xml" rel="self" type="application/rss+xml"/><item><title>Projet Master : Infrastructure système et réseau de supervision d'une flotte de véhicules</title><link>//localhost:1313/portfolio/projects/projetmaster/</link><pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate><guid>//localhost:1313/portfolio/projects/projetmaster/</guid><description>&lt;ul>
 &lt;li>Septembre 2024 - Janvier 2025&lt;/li>
 &lt;/ul>
 &lt;table>
@@ -11,7 +11,7 @@
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Nicolas Elfering &lt;a href="https://www.linkedin.com/in/nelfering/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">Nicolas Elfering &lt;a href="https://www.linkedin.com/in/nelfering/">&lt;img src="//localhost:1313/portfolio/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
  &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Chef de projet&lt;/td>
  &lt;/tr>
@@ -21,22 +21,22 @@
  &lt;td style="text-align: center">Équipe Infrastructure&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Kévin Hentz&lt;a href="https://www.linkedin.com/in/kevin-hentz/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">Kévin Hentz&lt;a href="https://www.linkedin.com/in/kevin-hentz/">&lt;img src="//localhost:1313/portfolio/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
  &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Dev Web&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Jessica Klotz&lt;a href="https://www.linkedin.com/in/jessica-klotz-jk/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">Jessica Klotz&lt;a href="https://www.linkedin.com/in/jessica-klotz-jk/">&lt;img src="//localhost:1313/portfolio/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
  &lt;td style="text-align: center">étudiante M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Dev Web&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Florian Halm&lt;a href="https://www.linkedin.com/in/florian-halm-b3b975331/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">Florian Halm&lt;a href="https://www.linkedin.com/in/florian-halm-b3b975331/">&lt;img src="//localhost:1313/portfolio/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
  &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Embarqué&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Maxime Friess&lt;a href="https://www.linkedin.com/in/maximefriess2/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">Maxime Friess&lt;a href="https://www.linkedin.com/in/maximefriess2/">&lt;img src="//localhost:1313/portfolio/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
  &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Embarqué&lt;/td>
  &lt;/tr>
