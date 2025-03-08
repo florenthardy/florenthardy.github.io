@@ -1,0 +1,25 @@
+<div class="post-title" style="margin-bottom: 5%; border-left: 3px solid aliceblue; padding-left: 2%;">
+     <a href="{{ .Permalink }}" class="post-link">{{ .Title | markdownify }}</a>
+     {{/* Decide to display the date based on the tags */}}
+     {{ $displayDate := true }}
+     {{ $tagsHidePostDate := or .Site.Params.Hidden.TagsPostDate slice }}
+     {{ $postTags := or .Params.Tags slice }}
+
+     {{ if gt ($tagsHidePostDate | intersect $postTags | len) 0 }}
+       {{ $displayDate = false }}
+     {{ end }}
+
+     {{ if eq $displayDate true }}
+      <div class="flex-break"></div>
+      <span class="post-date">{{ dateFormat (or .Site.Params.dateFormat "02/01/2006") .Date}}</span>
+     {{ end }}
+     {{ $postTags := or .Params.Tags slice }}
+     {{ $hiddenTags := or .Site.Params.Hidden.Tags slice }}
+     <ul class="post-tags">
+         {{ range $tag := $postTags }}
+         {{ if not (in $hiddenTags $tag) }}
+             <li class="post-tag" style="margin-right: 1%;"><a href="{{ "tags/" | absLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+         {{ end }}
+         {{ end }}
+     </ul>
+</div>

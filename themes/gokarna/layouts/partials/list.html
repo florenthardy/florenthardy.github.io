@@ -1,0 +1,46 @@
+<div class="container list-posts">
+
+    <h1 class="list-title">Les projets auxquels j'ai participé :</h1>
+
+    {{ $currentTag := "" }}
+
+    <!-- Detect if we are on a tag page -->
+    {{ if eq .Section "tags" }}
+        {{ $currentTag = .Title | lower }}
+    {{ end }}
+
+    <!-- Filter pages based on tag or show all pages -->
+    {{ $filteredPages := slice }}
+    {{ range .Site.Pages }}
+        {{ $pageTags := slice }}
+
+        {{ range .Params.Tags }}
+            {{ $pageTags = $pageTags | append (lower .) }}
+        {{ end }}
+
+        {{ if or (eq $currentTag "") (intersect $pageTags (slice $currentTag)) }}
+            {{ $filteredPages = $filteredPages | append . }}
+        {{ end }}
+    {{ end }}
+
+    <!-- Group filtered pages by year -->
+    {{ range $yearGroup := $filteredPages.GroupByDate "2006" }}
+        {{ $yearPages := slice }}
+
+        <!-- Manually filter pages by type -->
+        {{ range $yearGroup.Pages }}
+            {{ if and (isset .Params "type") (eq .Params.type "page") }}
+                {{ $yearPages = $yearPages | append . }}
+            {{ end }}
+        {{ end }}
+
+        <!-- Display only if there are valid pages in this year -->
+        {{ if gt (len $yearPages) 0 }}
+            <h2 class="posts-year">{{ $yearGroup.Key }}</h2>
+            {{ range $yearPages }}
+                {{- partial "list-posts.html" . -}}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+
+</div>
