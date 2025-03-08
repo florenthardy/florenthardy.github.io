@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Application Mobile on Florent Hardy</title><link>http://localhost:1313/tags/application-mobile/</link><description>Recent content in Application Mobile on Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/application-mobile/index.xml" rel="self" type="application/rss+xml"/><item><title>RepApp : L'app des repas</title><link>http://localhost:1313/projects/progmobile/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/progmobile/</guid><description>&lt;table>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Application Mobile on Florent Hardy</title><link>//localhost:1313/tags/application-mobile/</link><description>Recent content in Application Mobile on Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/application-mobile/index.xml" rel="self" type="application/rss+xml"/><item><title>RepApp : L'app des repas</title><link>//localhost:1313/projects/progmobile/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/progmobile/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th style="text-align: left">En collaboration avec&lt;/th>
@@ -8,7 +8,7 @@
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Benjamin Gliech &lt;a href="https://www.linkedin.com/in/benjamin-gliech/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Pinguee">&lt;img src="http://localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">Benjamin Gliech &lt;a href="https://www.linkedin.com/in/benjamin-gliech/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Pinguee">&lt;img src="//localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
  &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Binôme&lt;/td>
  &lt;/tr>
