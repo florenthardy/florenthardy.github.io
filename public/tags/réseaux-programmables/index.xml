@@ -1,12 +1,111 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Réseaux Programmables on Le Portfolio de Florent Hardy</title><link>http://localhost:1313/tags/r%C3%A9seaux-programmables/</link><description>Recent content in Réseaux Programmables on Le Portfolio de Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/r%C3%A9seaux-programmables/index.xml" rel="self" type="application/rss+xml"/><item><title>Projet GARDEN : Profilage énergétique de réseaux programmables</title><link>http://localhost:1313/projects/stage2025/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/stage2025/</guid><description>&lt;h3 id="profilage-et-optimisation-de-la-consommation-énergétique-des-réseaux-programmables">Profilage et optimisation de la consommation énergétique des réseaux programmables&lt;/h3>
-&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Réseaux Programmables on Florent Hardy</title><link>http://localhost:1313/tags/r%C3%A9seaux-programmables/</link><description>Recent content in Réseaux Programmables on Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/r%C3%A9seaux-programmables/index.xml" rel="self" type="application/rss+xml"/><item><title>Stage 2025 : GARDEN ou le profilage énergétique de réseaux programmables</title><link>http://localhost:1313/projects/stage2025/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/stage2025/</guid><description>&lt;ul>
 &lt;li>Février 2025 - En cours&lt;/li>
 &lt;/ul>
-&lt;p>Dans le cadre de mon stage de fin de Master 2, j&amp;rsquo;étudie la consommation énergétique d&amp;rsquo;équipements réseau programmables, en particulier les Tofino 1 et 2.&lt;/p>
-&lt;p>Je travaille avec Jean-Romain Luttringer et Julien Montavont, tout deux enseignant-chercheurs pour l&amp;rsquo;équipe Réseaux du laboratoire iCube.&lt;/p>
-&lt;p>Le but étant de modéliser la consommation de ces équipements pour trouver des moyens de la réduire.&lt;/p></description></item><item><title>Stage 2024 : Segment routing 🤝 Flowlet switching</title><link>http://localhost:1313/projects/sr_flowlet/</link><pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/sr_flowlet/</guid><description>&lt;h3 id="segment-routing--flowlet-switching">Segment routing 🤝 Flowlet switching&lt;/h3>
-&lt;ul>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">En collaboration avec&lt;/th>
+ &lt;th style="text-align: center">Affiliation&lt;/th>
+ &lt;th style="text-align: center">Rôle&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Jean-Romain Luttringer &lt;a href="https://jroluttringer.github.io/">&lt;img src="http://localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Encadrant&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Julien Montavont &lt;a href="https://clarinet.icube.unistra.fr/~montavont/">&lt;img src="http://localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Encadrant&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">Compétences et technologies :&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">Recherche&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://p4.org/">Language P4&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">Profilage énergétique&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Résumé :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Dans le cadre de mon stage de fin de Master 2, j&amp;rsquo;étudie la consommation énergétique d&amp;rsquo;équipements réseau programmables, en particulier les Tofino 1 et 2.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;p>Ce projet est en cours de construction&amp;hellip;&lt;/p>
+&lt;p>&lt;img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlubW9ycnphNjZsd2RveDBoNjFybnkwZ3d1czNwMXhzaW90eXFhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tihjRZrTbFNILJksWG/giphy.gif" alt="Page en construction">&lt;/p></description></item><item><title>Stage 2024 : Segment routing 🤝 Flowlet switching</title><link>http://localhost:1313/projects/sr_flowlet/</link><pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/sr_flowlet/</guid><description>&lt;ul>
 &lt;li>Juin 2024 - Juillet 2024&lt;/li>
 &lt;/ul>
-&lt;p>Pour mon stage de Master 1 j&amp;rsquo;ai travaillé au sein du Laboratoire iCube avec mes encadrants Pascal Mérindol et Jean-Romain Luttringer.&lt;/p>
-&lt;p>Nous avons travaillé sur une solution combinant le Segment Routing et le Flowlet Swicthing.&lt;/p></description></item></channel></rss>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">En collaboration avec&lt;/th>
+ &lt;th style="text-align: center">Affiliation&lt;/th>
+ &lt;th style="text-align: center">Rôle&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Jean-Romain Luttringer &lt;a href="https://jroluttringer.github.io/">&lt;img src="http://localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Encadrant&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Pascal Mérindol &lt;a href="https://clarinet.icube.unistra.fr/~merindol/">&lt;img src="http://localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Encadrant&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">Compétences et technologies :&lt;/th>
+ &lt;th style="text-align: center">&lt;/th>
+ &lt;th style="text-align: center">&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">Recherche&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://p4.org/">Language P4&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://www.segment-routing.net/">Segment Routing&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;a href="https://people.csail.mit.edu/alizadeh/papers/letflow-nsdi17.pdf">Flowlet switching&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://mininet.org/">Mininet&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Résumé :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Dans le cadre de mon stage d&amp;rsquo;été après mon Master 1, j&amp;rsquo;ai créé et étudié la performance de la combinaison entre &lt;a href="https://www.segment-routing.net/">Segment Routing&lt;/a> et &lt;a href="https://people.csail.mit.edu/alizadeh/papers/letflow-nsdi17.pdf">Flowlet switching&lt;/a> à l&amp;rsquo;aide de &lt;a href="https://mininet.org/">Mininet&lt;/a> et du framework &lt;a href="https://github.com/nsg-ethz/p4-utils">P4Utils&lt;/a>.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>

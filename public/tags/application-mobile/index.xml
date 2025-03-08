@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Application Mobile on Florent Hardy</title><link>http://localhost:1313/tags/application-mobile/</link><description>Recent content in Application Mobile on Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/application-mobile/index.xml" rel="self" type="application/rss+xml"/><item><title>RepApp : L'app des repas</title><link>http://localhost:1313/projects/progmobile/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/progmobile/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">En collaboration avec&lt;/th>
+ &lt;th style="text-align: center">Affiliation&lt;/th>
+ &lt;th style="text-align: center">Rôle&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Benjamin Gliech &lt;a href="https://www.linkedin.com/in/benjamin-gliech/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Pinguee">&lt;img src="http://localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Binôme&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">Compétences et technologies&lt;/th>
+ &lt;th style="text-align: center">&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;a href="https://flutter.dev/">Flutter&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">API&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://developer.android.com/studio">Android Studio&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Résumé :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Dans le cadre de mon Master 2, nous avons créé une application mobile de proposition de recettes à l&amp;rsquo;aide de Flutter et de l&amp;rsquo;API &lt;a href="https://www.themealdb.com/api.php">TheMealDB&lt;/a>.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>

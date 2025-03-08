@@ -1,15 +1,402 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Le Portfolio de Florent Hardy</title><link>http://localhost:1313/</link><description>Recent content on Le Portfolio de Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Projet GARDEN : Profilage énergétique de réseaux programmables</title><link>http://localhost:1313/projects/stage2025/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/stage2025/</guid><description>&lt;h3 id="profilage-et-optimisation-de-la-consommation-énergétique-des-réseaux-programmables">Profilage et optimisation de la consommation énergétique des réseaux programmables&lt;/h3>
-&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Florent Hardy</title><link>http://localhost:1313/</link><description>Recent content on Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Stage 2025 : GARDEN ou le profilage énergétique de réseaux programmables</title><link>http://localhost:1313/projects/stage2025/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/stage2025/</guid><description>&lt;ul>
 &lt;li>Février 2025 - En cours&lt;/li>
 &lt;/ul>
-&lt;p>Dans le cadre de mon stage de fin de Master 2, j&amp;rsquo;étudie la consommation énergétique d&amp;rsquo;équipements réseau programmables, en particulier les Tofino 1 et 2.&lt;/p>
-&lt;p>Je travaille avec Jean-Romain Luttringer et Julien Montavont, tout deux enseignant-chercheurs pour l&amp;rsquo;équipe Réseaux du laboratoire iCube.&lt;/p>
-&lt;p>Le but étant de modéliser la consommation de ces équipements pour trouver des moyens de la réduire.&lt;/p></description></item><item><title>Projet Master : Infrastructure système et réseau de supervision d'une flotte de véhicules</title><link>http://localhost:1313/projects/projetmaster/</link><pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/projetmaster/</guid><description>&lt;h3 id="profilage-et-optimisation-de-la-consommation-énergétique-des-réseaux-programmables">Profilage et optimisation de la consommation énergétique des réseaux programmables&lt;/h3>
-&lt;ul>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">En collaboration avec&lt;/th>
+ &lt;th style="text-align: center">Affiliation&lt;/th>
+ &lt;th style="text-align: center">Rôle&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Jean-Romain Luttringer &lt;a href="https://jroluttringer.github.io/">&lt;img src="http://localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Encadrant&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Julien Montavont &lt;a href="https://clarinet.icube.unistra.fr/~montavont/">&lt;img src="http://localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Encadrant&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">Compétences et technologies :&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">Recherche&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://p4.org/">Language P4&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">Profilage énergétique&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Résumé :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Dans le cadre de mon stage de fin de Master 2, j&amp;rsquo;étudie la consommation énergétique d&amp;rsquo;équipements réseau programmables, en particulier les Tofino 1 et 2.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;p>Ce projet est en cours de construction&amp;hellip;&lt;/p>
+&lt;p>&lt;img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlubW9ycnphNjZsd2RveDBoNjFybnkwZ3d1czNwMXhzaW90eXFhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tihjRZrTbFNILJksWG/giphy.gif" alt="Page en construction">&lt;/p></description></item><item><title>Projet Master : Infrastructure système et réseau de supervision d'une flotte de véhicules</title><link>http://localhost:1313/projects/projetmaster/</link><pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/projetmaster/</guid><description>&lt;ul>
 &lt;li>Septembre 2024 - Janvier 2025&lt;/li>
-&lt;/ul></description></item><item><title>Stage 2024 : Segment routing 🤝 Flowlet switching</title><link>http://localhost:1313/projects/sr_flowlet/</link><pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/sr_flowlet/</guid><description>&lt;h3 id="segment-routing--flowlet-switching">Segment routing 🤝 Flowlet switching&lt;/h3>
-&lt;ul>
+&lt;/ul>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">En collaboration avec&lt;/th>
+ &lt;th style="text-align: center">Affiliation&lt;/th>
+ &lt;th style="text-align: center">Rôle&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Nicolas Elfering &lt;a href="https://www.linkedin.com/in/nelfering/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Chef de projet&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Éloi Colin&lt;/td>
+ &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Équipe Infrastructure&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Kévin Hentz&lt;a href="https://www.linkedin.com/in/kevin-hentz/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Équipe Dev Web&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Jessica Klotz&lt;a href="https://www.linkedin.com/in/jessica-klotz-jk/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiante M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Équipe Dev Web&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Florian Halm&lt;a href="https://www.linkedin.com/in/florian-halm-b3b975331/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Équipe Embarqué&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Maxime Friess&lt;a href="https://www.linkedin.com/in/maximefriess2/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Équipe Embarqué&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">Compétences et technologies&lt;/th>
+ &lt;th style="text-align: center">&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">OpenStack&lt;/td>
+ &lt;td style="text-align: center">Consul &amp;amp; Nomad&lt;/td>
+ &lt;td style="text-align: center">Prometheus &amp;amp; Grafana&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">InfluxDB&lt;/td>
+ &lt;td style="text-align: center">PostgreSQL&lt;/td>
+ &lt;td style="text-align: center">Minio (S3)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">NginX&lt;/td>
+ &lt;td style="text-align: center">Wireguard (VPN)&lt;/td>
+ &lt;td style="text-align: center">Docker&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Résumé :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Dans le cadre de mon Master 2, j&amp;rsquo;ai participé à la mise en place de l&amp;rsquo;infrastructure hébergeant un service factis de monitoring de véhicules.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>pokemon</title><link>http://localhost:1313/projects/pokemon/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/pokemon/</guid><description>&lt;h3 id="développement-dune-intelligence-artificielle-de-catégorisation-dorganelles-à-partir-dimages">Développement d&amp;rsquo;une intelligence artificielle de catégorisation d&amp;rsquo;organelles à partir d&amp;rsquo;images&lt;/h3></description></item><item><title>Réseau de neurones : catégorisation d'organites cellulaires</title><link>http://localhost:1313/projects/ia_image/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/ia_image/</guid><description>&lt;h3 id="développement-dune-intelligence-artificielle-de-catégorisation-dorganelles-à-partir-dimages">Développement d&amp;rsquo;une intelligence artificielle de catégorisation d&amp;rsquo;organelles à partir d&amp;rsquo;images&lt;/h3></description></item><item><title>RepApp : L'app des repas</title><link>http://localhost:1313/projects/progmobile/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/progmobile/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">En collaboration avec&lt;/th>
+ &lt;th style="text-align: center">Affiliation&lt;/th>
+ &lt;th style="text-align: center">Rôle&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Benjamin Gliech &lt;a href="https://www.linkedin.com/in/benjamin-gliech/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Pinguee">&lt;img src="http://localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Binôme&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">Compétences et technologies&lt;/th>
+ &lt;th style="text-align: center">&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;a href="https://flutter.dev/">Flutter&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">API&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://developer.android.com/studio">Android Studio&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Résumé :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Dans le cadre de mon Master 2, nous avons créé une application mobile de proposition de recettes à l&amp;rsquo;aide de Flutter et de l&amp;rsquo;API &lt;a href="https://www.themealdb.com/api.php">TheMealDB&lt;/a>.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Stage 2024 : Segment routing 🤝 Flowlet switching</title><link>http://localhost:1313/projects/sr_flowlet/</link><pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/sr_flowlet/</guid><description>&lt;ul>
 &lt;li>Juin 2024 - Juillet 2024&lt;/li>
 &lt;/ul>
-&lt;p>Pour mon stage de Master 1 j&amp;rsquo;ai travaillé au sein du Laboratoire iCube avec mes encadrants Pascal Mérindol et Jean-Romain Luttringer.&lt;/p>
-&lt;p>Nous avons travaillé sur une solution combinant le Segment Routing et le Flowlet Swicthing.&lt;/p></description></item></channel></rss>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">En collaboration avec&lt;/th>
+ &lt;th style="text-align: center">Affiliation&lt;/th>
+ &lt;th style="text-align: center">Rôle&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Jean-Romain Luttringer &lt;a href="https://jroluttringer.github.io/">&lt;img src="http://localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Encadrant&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Pascal Mérindol &lt;a href="https://clarinet.icube.unistra.fr/~merindol/">&lt;img src="http://localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Encadrant&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">Compétences et technologies :&lt;/th>
+ &lt;th style="text-align: center">&lt;/th>
+ &lt;th style="text-align: center">&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">Recherche&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://p4.org/">Language P4&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://www.segment-routing.net/">Segment Routing&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;a href="https://people.csail.mit.edu/alizadeh/papers/letflow-nsdi17.pdf">Flowlet switching&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://mininet.org/">Mininet&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Résumé :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Dans le cadre de mon stage d&amp;rsquo;été après mon Master 1, j&amp;rsquo;ai créé et étudié la performance de la combinaison entre &lt;a href="https://www.segment-routing.net/">Segment Routing&lt;/a> et &lt;a href="https://people.csail.mit.edu/alizadeh/papers/letflow-nsdi17.pdf">Flowlet switching&lt;/a> à l&amp;rsquo;aide de &lt;a href="https://mininet.org/">Mininet&lt;/a> et du framework &lt;a href="https://github.com/nsg-ethz/p4-utils">P4Utils&lt;/a>.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Travail d'étude et de recherche : GOFOR ou le problème de Segment Routing multi-métrique</title><link>http://localhost:1313/projects/ter/</link><pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/ter/</guid><description>&lt;ul>
+&lt;li>Janvier 2024 - Mai 2024&lt;/li>
+&lt;/ul>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">En collaboration avec&lt;/th>
+ &lt;th style="text-align: center">Affiliation&lt;/th>
+ &lt;th style="text-align: center">Rôle&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Jean-Romain Luttringer &lt;a href="https://jroluttringer.github.io/">&lt;img src="http://localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Encadrant&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Pascal Mérindol &lt;a href="https://clarinet.icube.unistra.fr/~merindol/">&lt;img src="http://localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Encadrant&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">Compétences et technologies :&lt;/th>
+ &lt;th style="text-align: center">&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">Recherche&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://p4.org/">Language P4&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;a href="https://mininet.org/">Mininet&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://www.segment-routing.net/">Segment Routing&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Résumé :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Dans le cadre de mon Master 1, j&amp;rsquo;ai conçu une preuve de concept de l&amp;rsquo;un des cas d&amp;rsquo;utilisation de &lt;a href="https://arxiv.org/pdf/2311.17769">GOFOR&lt;/a>, qui est un algorithme de calcul de chemins optimaux dans les réseaux multi-métriques utilisant &lt;a href="https://www.segment-routing.net/">Segment Routing&lt;/a>.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Compilateur CMat</title><link>http://localhost:1313/projects/compilateur/</link><pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/compilateur/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">En collaboration avec&lt;/th>
+ &lt;th style="text-align: center">Affiliation&lt;/th>
+ &lt;th style="text-align: center">Rôle&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Salwa El Fatini &lt;a href="https://www.linkedin.com/in/salwa-el-fatini-a6879320b/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Awlas">&lt;img src="http://localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiante M1 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Accéléromètre &amp;amp; Chaîne d&amp;rsquo;acquisition&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Janna Ismailova &lt;a href="https://www.linkedin.com/in/janna-ismailova/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiante M1 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Affichage LED &amp;amp; IHM&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Pierre Matter &lt;a href="https://www.linkedin.com/in/pierre-matter-816752264/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Caillassage">&lt;img src="http://localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiant M1 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Moteur &amp;amp; Servomoteur&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">Compétences et technologies&lt;/th>
+ &lt;th style="text-align: center">&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">Flex&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://www.gnu.org/software/bison/">Bison&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://risc-v.technology/">RISC-V&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">C&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://git-scm.com/">git&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Résumé :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Dans le cadre de mon Master 1, j&amp;rsquo;ai participé à la création d&amp;rsquo;un compilateur CMat capable de compiler un langage similaire au C auquel on aurait ajouté le type &amp;ldquo;matrice&amp;rdquo; et des opérations sur les matrices.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Programmation embarquée : voiture miniature</title><link>http://localhost:1313/projects/prog_embar/</link><pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/prog_embar/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">En collaboration avec&lt;/th>
+ &lt;th style="text-align: center">Affiliation&lt;/th>
+ &lt;th style="text-align: center">Rôle&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Salwa El Fatini &lt;a href="https://www.linkedin.com/in/salwa-el-fatini-a6879320b/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Awlas">&lt;img src="http://localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiante M1 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Accéléromètre &amp;amp; Chaîne d&amp;rsquo;acquisition&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Janna Ismailova &lt;a href="https://www.linkedin.com/in/janna-ismailova/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiante M1 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Affichage LED &amp;amp; IHM&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Pierre Matter &lt;a href="https://www.linkedin.com/in/pierre-matter-816752264/">&lt;img src="http://localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Caillassage">&lt;img src="http://localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiant M1 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Moteur &amp;amp; Servomoteur&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">Compétences et technologies&lt;/th>
+ &lt;th style="text-align: center">&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;a href="https://www.arduino.cc/">Arduino&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">Micro-contrôleur&lt;/td>
+ &lt;td style="text-align: center">Programmation embarquée&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Résumé :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Dans le cadre de mon Master 1, j&amp;rsquo;ai participé à la création du squelette d&amp;rsquo;une voiture miniature, en particulier les communications Bluetooth avec la carte Arduino. Le squelette comportait un moteur (roues), servomoteur (volant), accéléromètre / Bluetooth (contrôles) et un affichage LED (IHM &amp;amp; ATH).&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>

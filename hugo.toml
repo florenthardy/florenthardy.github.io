@@ -1,4 +1,4 @@
-baseURL = "https://gokarna-hugo.netlify.app"
+baseURL = " https://BirdEnthusiast123.github.io"
 defaultContentLanguage = "fr"
 enableEmoji = true
 enableRobotsTXT = true
@@ -6,7 +6,7 @@ languageCode = "fr"
 # Choose one of emacs, trac or perldoc
 pygmentsStyle = "monokai"
 theme = "gokarna"
-title = "Le Portfolio de Florent Hardy"
+title = "Florent Hardy"
 
 [params]
   avatarAltText = "avatar"
@@ -79,6 +79,10 @@ title = "Le Portfolio de Florent Hardy"
     startLevel = 1
     endLevel = 4
     ordered = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 
 [minify]
     minifyOutput = true

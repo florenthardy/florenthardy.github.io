@@ -1,7 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Consommation Énergétique on Le Portfolio de Florent Hardy</title><link>http://localhost:1313/tags/consommation-%C3%A9nerg%C3%A9tique/</link><description>Recent content in Consommation Énergétique on Le Portfolio de Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/consommation-%C3%A9nerg%C3%A9tique/index.xml" rel="self" type="application/rss+xml"/><item><title>Projet GARDEN : Profilage énergétique de réseaux programmables</title><link>http://localhost:1313/projects/stage2025/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/stage2025/</guid><description>&lt;h3 id="profilage-et-optimisation-de-la-consommation-énergétique-des-réseaux-programmables">Profilage et optimisation de la consommation énergétique des réseaux programmables&lt;/h3>
-&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Consommation Énergétique on Florent Hardy</title><link>http://localhost:1313/tags/consommation-%C3%A9nerg%C3%A9tique/</link><description>Recent content in Consommation Énergétique on Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/consommation-%C3%A9nerg%C3%A9tique/index.xml" rel="self" type="application/rss+xml"/><item><title>Stage 2025 : GARDEN ou le profilage énergétique de réseaux programmables</title><link>http://localhost:1313/projects/stage2025/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/stage2025/</guid><description>&lt;ul>
 &lt;li>Février 2025 - En cours&lt;/li>
 &lt;/ul>
-&lt;p>Dans le cadre de mon stage de fin de Master 2, j&amp;rsquo;étudie la consommation énergétique d&amp;rsquo;équipements réseau programmables, en particulier les Tofino 1 et 2.&lt;/p>
-&lt;p>Je travaille avec Jean-Romain Luttringer et Julien Montavont, tout deux enseignant-chercheurs pour l&amp;rsquo;équipe Réseaux du laboratoire iCube.&lt;/p>
-&lt;p>Le but étant de modéliser la consommation de ces équipements pour trouver des moyens de la réduire.&lt;/p></description></item></channel></rss>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">En collaboration avec&lt;/th>
+ &lt;th style="text-align: center">Affiliation&lt;/th>
+ &lt;th style="text-align: center">Rôle&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Jean-Romain Luttringer &lt;a href="https://jroluttringer.github.io/">&lt;img src="http://localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Encadrant&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Julien Montavont &lt;a href="https://clarinet.icube.unistra.fr/~montavont/">&lt;img src="http://localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Encadrant&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">Compétences et technologies :&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">Recherche&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://p4.org/">Language P4&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">Profilage énergétique&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Résumé :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Dans le cadre de mon stage de fin de Master 2, j&amp;rsquo;étudie la consommation énergétique d&amp;rsquo;équipements réseau programmables, en particulier les Tofino 1 et 2.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;p>Ce projet est en cours de construction&amp;hellip;&lt;/p>
+&lt;p>&lt;img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlubW9ycnphNjZsd2RveDBoNjFybnkwZ3d1czNwMXhzaW90eXFhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tihjRZrTbFNILJksWG/giphy.gif" alt="Page en construction">&lt;/p></description></item></channel></rss>
