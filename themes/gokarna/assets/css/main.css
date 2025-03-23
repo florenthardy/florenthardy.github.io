@@ -41,6 +41,8 @@ strong {
 
 a {
   color: inherit;
+  cursor: pointer;
+  text-decoration-line: underline;
 }
 
 /* This is set in partials/head.html and is populated via config */
@@ -118,6 +120,11 @@ main#content > .container {
 }
 
 img {
+  height: auto;
+  max-width: 100%;
+}
+
+video {
   height: auto;
   max-width: 100%;
 }
@@ -358,8 +365,9 @@ table {
   border-collapse: collapse;
   margin: 30px 0;
   text-align: left;
-  display: block;
+  /* display: block; */
   overflow-x: auto;
+  width: 100%;
 }
 
 table thead {

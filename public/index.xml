@@ -12,12 +12,12 @@
  &lt;tbody>
  &lt;tr>
  &lt;td style="text-align: left">Jean-Romain Luttringer &lt;a href="https://jroluttringer.github.io/">&lt;img src="//localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Enseignant-chercheur à iCube (CNRS)&lt;/td>
  &lt;td style="text-align: center">Encadrant&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Julien Montavont &lt;a href="https://clarinet.icube.unistra.fr/~montavont/">&lt;img src="//localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Enseignant-chercheur à iCube (CNRS)&lt;/td>
  &lt;td style="text-align: center">Encadrant&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -25,9 +25,9 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: center">Compétences et technologies :&lt;/th>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
+ &lt;th style="text-align: center">Compétences&lt;/th>
+ &lt;th style="text-align: center">et&lt;/th>
+ &lt;th style="text-align: center">technologies&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
@@ -66,32 +66,32 @@
  &lt;tbody>
  &lt;tr>
  &lt;td style="text-align: left">Nicolas Elfering &lt;a href="https://www.linkedin.com/in/nelfering/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Chef de projet&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Éloi Colin&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Infrastructure&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Kévin Hentz&lt;a href="https://www.linkedin.com/in/kevin-hentz/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Dev Web&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Jessica Klotz&lt;a href="https://www.linkedin.com/in/jessica-klotz-jk/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiante M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiante M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Dev Web&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Florian Halm&lt;a href="https://www.linkedin.com/in/florian-halm-b3b975331/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Embarqué&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Maxime Friess&lt;a href="https://www.linkedin.com/in/maximefriess2/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Embarqué&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -99,9 +99,9 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: center">Compétences et technologies&lt;/th>
- &lt;th style="text-align: center">&lt;/th>
- &lt;th>&lt;/th>
+ &lt;th style="text-align: center">Compétences&lt;/th>
+ &lt;th style="text-align: center">et&lt;/th>
+ &lt;th style="text-align: center">technologies&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
@@ -133,7 +133,17 @@
  &lt;td style="text-align: left">Dans le cadre de mon Master 2, j&amp;rsquo;ai participé à la mise en place de l&amp;rsquo;infrastructure hébergeant un service factis de monitoring de véhicules.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Réseau de neurones : catégorisation d'organites cellulaires</title><link>//localhost:1313/projects/ia_image/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/ia_image/</guid><description>&lt;table>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Détail :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>L&amp;rsquo;application développée est un outil de monitoring de véhicules, nous avons utilisé une caméra, un capteur GPS et une prise OBD2 (On Board Diagnostic) pour récolter des informations sur les voitures de la flotte.&lt;/p></description></item><item><title>Réseau de neurones : catégorisation d'organites cellulaires</title><link>//localhost:1313/projects/ia_image/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/ia_image/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th style="text-align: left">En collaboration avec&lt;/th>
@@ -144,7 +154,7 @@
  &lt;tbody>
  &lt;tr>
  &lt;td style="text-align: left">Nicolas Elfering &lt;a href="https://www.linkedin.com/in/nelfering/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Binôme&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -152,9 +162,9 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: center">Compétences et technologies&lt;/th>
- &lt;th style="text-align: center">&lt;/th>
- &lt;th>&lt;/th>
+ &lt;th style="text-align: center">Compétences&lt;/th>
+ &lt;th style="text-align: center">et&lt;/th>
+ &lt;th style="text-align: center">technologies&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
@@ -187,7 +197,7 @@
  &lt;tbody>
  &lt;tr>
  &lt;td style="text-align: left">Benjamin Gliech &lt;a href="https://www.linkedin.com/in/benjamin-gliech/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Pinguee">&lt;img src="//localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Binôme&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -195,9 +205,9 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: center">Compétences et technologies&lt;/th>
- &lt;th style="text-align: center">&lt;/th>
- &lt;th>&lt;/th>
+ &lt;th style="text-align: center">Compétences&lt;/th>
+ &lt;th style="text-align: center">et&lt;/th>
+ &lt;th style="text-align: center">technologies&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
@@ -230,7 +240,7 @@
  &lt;tbody>
  &lt;tr>
  &lt;td style="text-align: left">Benjamin Gliech &lt;a href="https://www.linkedin.com/in/benjamin-gliech/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Pinguee">&lt;img src="//localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Binôme&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -238,9 +248,9 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: center">Compétences et technologies&lt;/th>
- &lt;th style="text-align: center">&lt;/th>
- &lt;th>&lt;/th>
+ &lt;th style="text-align: center">Compétences&lt;/th>
+ &lt;th style="text-align: center">et&lt;/th>
+ &lt;th style="text-align: center">technologies&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
@@ -276,12 +286,12 @@
  &lt;tbody>
  &lt;tr>
  &lt;td style="text-align: left">Jean-Romain Luttringer &lt;a href="https://jroluttringer.github.io/">&lt;img src="//localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Enseignant-chercheur à iCube (CNRS)&lt;/td>
  &lt;td style="text-align: center">Encadrant&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Pascal Mérindol &lt;a href="https://clarinet.icube.unistra.fr/~merindol/">&lt;img src="//localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Enseignant-chercheur à iCube (CNRS)&lt;/td>
  &lt;td style="text-align: center">Encadrant&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -289,9 +299,9 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: center">Compétences et technologies :&lt;/th>
- &lt;th style="text-align: center">&lt;/th>
- &lt;th style="text-align: center">&lt;/th>
+ &lt;th style="text-align: center">Compétences&lt;/th>
+ &lt;th style="text-align: center">et&lt;/th>
+ &lt;th style="text-align: center">technologies&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
@@ -332,12 +342,12 @@
  &lt;tbody>
  &lt;tr>
  &lt;td style="text-align: left">Jean-Romain Luttringer &lt;a href="https://jroluttringer.github.io/">&lt;img src="//localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Enseignant-chercheur à iCube (CNRS)&lt;/td>
  &lt;td style="text-align: center">Encadrant&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Pascal Mérindol &lt;a href="https://clarinet.icube.unistra.fr/~merindol/">&lt;img src="//localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Enseignant-chercheur à iCube (CNRS)&lt;/td>
  &lt;td style="text-align: center">Encadrant&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -345,9 +355,9 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: center">Compétences et technologies :&lt;/th>
- &lt;th style="text-align: center">&lt;/th>
- &lt;th>&lt;/th>
+ &lt;th style="text-align: center">Compétences&lt;/th>
+ &lt;th style="text-align: center">et&lt;/th>
+ &lt;th style="text-align: center">technologies&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
@@ -385,17 +395,17 @@
  &lt;tbody>
  &lt;tr>
  &lt;td style="text-align: left">Salwa El Fatini &lt;a href="https://www.linkedin.com/in/salwa-el-fatini-a6879320b/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Awlas">&lt;img src="//localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiante M1 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiante M1 SIRIS&lt;/td>
  &lt;td style="text-align: center">Accéléromètre &amp;amp; Chaîne d&amp;rsquo;acquisition&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Janna Ismailova &lt;a href="https://www.linkedin.com/in/janna-ismailova/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiante M1 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiante M1 SIRIS&lt;/td>
  &lt;td style="text-align: center">Affichage LED &amp;amp; IHM&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Pierre Matter &lt;a href="https://www.linkedin.com/in/pierre-matter-816752264/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Caillassage">&lt;img src="//localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M1 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M1 SIRIS&lt;/td>
  &lt;td style="text-align: center">Moteur &amp;amp; Servomoteur&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -403,9 +413,9 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: center">Compétences et technologies&lt;/th>
- &lt;th style="text-align: center">&lt;/th>
- &lt;th>&lt;/th>
+ &lt;th style="text-align: center">Compétences&lt;/th>
+ &lt;th style="text-align: center">et&lt;/th>
+ &lt;th style="text-align: center">technologies&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
@@ -443,17 +453,17 @@
  &lt;tbody>
  &lt;tr>
  &lt;td style="text-align: left">Salwa El Fatini &lt;a href="https://www.linkedin.com/in/salwa-el-fatini-a6879320b/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Awlas">&lt;img src="//localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiante M1 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiante M1 SIRIS&lt;/td>
  &lt;td style="text-align: center">Accéléromètre &amp;amp; Chaîne d&amp;rsquo;acquisition&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Janna Ismailova &lt;a href="https://www.linkedin.com/in/janna-ismailova/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiante M1 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiante M1 SIRIS&lt;/td>
  &lt;td style="text-align: center">Affichage LED &amp;amp; IHM&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Pierre Matter &lt;a href="https://www.linkedin.com/in/pierre-matter-816752264/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Caillassage">&lt;img src="//localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M1 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M1 SIRIS&lt;/td>
  &lt;td style="text-align: center">Moteur &amp;amp; Servomoteur&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -461,9 +471,9 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: center">Compétences et technologies&lt;/th>
- &lt;th style="text-align: center">&lt;/th>
- &lt;th>&lt;/th>
+ &lt;th style="text-align: center">Compétences&lt;/th>
+ &lt;th style="text-align: center">et&lt;/th>
+ &lt;th style="text-align: center">technologies&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>

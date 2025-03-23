@@ -7,9 +7,9 @@ tags: ["Réseau", "Réseaux programmables", "Traffic engineering"]
 
 |En collaboration avec | Affiliation | Rôle | 
 | :------------------ | :----------: | :----------: |
-| Benjamin Gliech <a href="https://www.linkedin.com/in/benjamin-gliech/"><img src="/images/linkedin.svg" alt="Linkedin" width="24px"></a> <a href="https://github.com/Pinguee"><img src="/images/github.svg" alt="GitHub" width="24px"></a>| étudiant M2 SIRIS | Binôme |  
+| Benjamin Gliech <a href="https://www.linkedin.com/in/benjamin-gliech/"><img src="/images/linkedin.svg" alt="Linkedin" width="24px"></a> <a href="https://github.com/Pinguee"><img src="/images/github.svg" alt="GitHub" width="24px"></a>| Étudiant M2 SIRIS | Binôme |  
  
-| Compétences et technologies |    |
+| Compétences |  et |  technologies |
 | :------------------: | :----------: | :----------: |  
 | [Language P4](https://p4.org/) | [Mininet](https://mininet.org/) | Python |  
 

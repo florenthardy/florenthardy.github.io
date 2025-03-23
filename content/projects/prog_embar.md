@@ -7,11 +7,11 @@ tags: ["Programmation système", "Programmation embarquée", "Micro-contrôleur"
 
 |En collaboration avec | Affiliation | Rôle | 
 | :------------------ | :----------: | :----------: |
-| Salwa El Fatini <a href="https://www.linkedin.com/in/salwa-el-fatini-a6879320b/"><img src="/images/linkedin.svg" alt="Linkedin" width="24px"></a> <a href="https://github.com/Awlas"><img src="/images/github.svg" alt="GitHub" width="24px"></a>| étudiante M1 SIRIS | Accéléromètre & Chaîne d'acquisition|  
-| Janna Ismailova <a href="https://www.linkedin.com/in/janna-ismailova/"><img src="/images/linkedin.svg" alt="Linkedin" width="24px"></a> | étudiante M1 SIRIS | Affichage LED & IHM|  
-| Pierre Matter <a href="https://www.linkedin.com/in/pierre-matter-816752264/"><img src="/images/linkedin.svg" alt="Linkedin" width="24px"></a>  <a href="https://github.com/Caillassage"><img src="/images/github.svg" alt="GitHub" width="24px"></a>| étudiant M1 SIRIS | Moteur & Servomoteur|    
+| Salwa El Fatini <a href="https://www.linkedin.com/in/salwa-el-fatini-a6879320b/"><img src="/images/linkedin.svg" alt="Linkedin" width="24px"></a> <a href="https://github.com/Awlas"><img src="/images/github.svg" alt="GitHub" width="24px"></a>| Étudiante M1 SIRIS | Accéléromètre & Chaîne d'acquisition|  
+| Janna Ismailova <a href="https://www.linkedin.com/in/janna-ismailova/"><img src="/images/linkedin.svg" alt="Linkedin" width="24px"></a> | Étudiante M1 SIRIS | Affichage LED & IHM|  
+| Pierre Matter <a href="https://www.linkedin.com/in/pierre-matter-816752264/"><img src="/images/linkedin.svg" alt="Linkedin" width="24px"></a>  <a href="https://github.com/Caillassage"><img src="/images/github.svg" alt="GitHub" width="24px"></a>| Étudiant M1 SIRIS | Moteur & Servomoteur|    
  
-| Compétences et technologies |    |
+| Compétences |  et |  technologies |
 | :------------------: | :----------: | :----------: |  
 | [Arduino](https://www.arduino.cc/) | Micro-contrôleur | Programmation embarquée |  
 

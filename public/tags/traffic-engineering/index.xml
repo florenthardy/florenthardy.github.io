@@ -9,7 +9,7 @@
  &lt;tbody>
  &lt;tr>
  &lt;td style="text-align: left">Benjamin Gliech &lt;a href="https://www.linkedin.com/in/benjamin-gliech/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Pinguee">&lt;img src="//localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Binôme&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -17,9 +17,9 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: center">Compétences et technologies&lt;/th>
- &lt;th style="text-align: center">&lt;/th>
- &lt;th>&lt;/th>
+ &lt;th style="text-align: center">Compétences&lt;/th>
+ &lt;th style="text-align: center">et&lt;/th>
+ &lt;th style="text-align: center">technologies&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
@@ -55,12 +55,12 @@
  &lt;tbody>
  &lt;tr>
  &lt;td style="text-align: left">Jean-Romain Luttringer &lt;a href="https://jroluttringer.github.io/">&lt;img src="//localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Enseignant-chercheur à iCube (CNRS)&lt;/td>
  &lt;td style="text-align: center">Encadrant&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Pascal Mérindol &lt;a href="https://clarinet.icube.unistra.fr/~merindol/">&lt;img src="//localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
+ &lt;td style="text-align: center">Enseignant-chercheur à iCube (CNRS)&lt;/td>
  &lt;td style="text-align: center">Encadrant&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -68,9 +68,9 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: center">Compétences et technologies :&lt;/th>
- &lt;th style="text-align: center">&lt;/th>
- &lt;th style="text-align: center">&lt;/th>
+ &lt;th style="text-align: center">Compétences&lt;/th>
+ &lt;th style="text-align: center">et&lt;/th>
+ &lt;th style="text-align: center">technologies&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>

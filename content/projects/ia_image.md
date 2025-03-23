@@ -8,9 +8,9 @@ tags: ["Réseau de neurones", "Machine learning", "Intelligence artificielle"]
 
 |En collaboration avec | Affiliation | Rôle | 
 | :------------------ | :----------: | :----------: |
-| Nicolas Elfering <a href="https://www.linkedin.com/in/nelfering/"><img src="/images/linkedin.svg" alt="Linkedin" width="24px"></a>| étudiant M2 SIRIS | Binôme |  
+| Nicolas Elfering <a href="https://www.linkedin.com/in/nelfering/"><img src="/images/linkedin.svg" alt="Linkedin" width="24px"></a>| Étudiant M2 SIRIS | Binôme |  
  
-| Compétences et technologies |    |
+| Compétences |  et |  technologies |
 | :------------------: | :----------: | :----------: |  
 | Python | [TensorFlow](https://www.tensorflow.org/) | |  
 

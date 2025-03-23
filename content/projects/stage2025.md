@@ -8,10 +8,10 @@ tags: ["Recherche", "Réseau", "Réseaux programmables", "Consommation énergét
 
 |En collaboration avec | Affiliation | Rôle | 
 | :------------------ | :----------: | :----------: |
-| Jean-Romain Luttringer <a href="https://jroluttringer.github.io/"><img src="/images/rss.svg" alt="Portfolio" width="24px"></a>| enseignant-chercheur à iCube (CNRS) | Encadrant |
-| Julien Montavont <a href="https://clarinet.icube.unistra.fr/~montavont/"><img src="/images/rss.svg" alt="Portfolio" width="24px"></a>| enseignant-chercheur à iCube (CNRS) | Encadrant | 
+| Jean-Romain Luttringer <a href="https://jroluttringer.github.io/"><img src="/images/rss.svg" alt="Portfolio" width="24px"></a>| Enseignant-chercheur à iCube (CNRS) | Encadrant |
+| Julien Montavont <a href="https://clarinet.icube.unistra.fr/~montavont/"><img src="/images/rss.svg" alt="Portfolio" width="24px"></a>| Enseignant-chercheur à iCube (CNRS) | Encadrant | 
  
-| Compétences et technologies :   |
+| Compétences |  et |  technologies |
 | :------------------: | :----------: | :----------: |  
 | Recherche | [Language P4](https://p4.org/) | Profilage énergétique |  
 

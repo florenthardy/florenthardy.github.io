@@ -12,32 +12,32 @@
  &lt;tbody>
  &lt;tr>
  &lt;td style="text-align: left">Nicolas Elfering &lt;a href="https://www.linkedin.com/in/nelfering/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Chef de projet&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Éloi Colin&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Infrastructure&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Kévin Hentz&lt;a href="https://www.linkedin.com/in/kevin-hentz/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Dev Web&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Jessica Klotz&lt;a href="https://www.linkedin.com/in/jessica-klotz-jk/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiante M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiante M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Dev Web&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Florian Halm&lt;a href="https://www.linkedin.com/in/florian-halm-b3b975331/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Embarqué&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">Maxime Friess&lt;a href="https://www.linkedin.com/in/maximefriess2/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
- &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Étudiant M2 SIRIS&lt;/td>
  &lt;td style="text-align: center">Équipe Embarqué&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -45,9 +45,9 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: center">Compétences et technologies&lt;/th>
- &lt;th style="text-align: center">&lt;/th>
- &lt;th>&lt;/th>
+ &lt;th style="text-align: center">Compétences&lt;/th>
+ &lt;th style="text-align: center">et&lt;/th>
+ &lt;th style="text-align: center">technologies&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
@@ -79,4 +79,14 @@
  &lt;td style="text-align: left">Dans le cadre de mon Master 2, j&amp;rsquo;ai participé à la mise en place de l&amp;rsquo;infrastructure hébergeant un service factis de monitoring de véhicules.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item></channel></rss>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Détail :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>L&amp;rsquo;application développée est un outil de monitoring de véhicules, nous avons utilisé une caméra, un capteur GPS et une prise OBD2 (On Board Diagnostic) pour récolter des informations sur les voitures de la flotte.&lt;/p></description></item></channel></rss>
