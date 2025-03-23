@@ -1,1 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning on Florent Hardy</title><link>//localhost:1313/portfolio/tags/machine-learning/</link><description>Recent content in Machine Learning on Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>pokemon</title><link>//localhost:1313/portfolio/projects/pokemon/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>//localhost:1313/portfolio/projects/pokemon/</guid><description>&lt;h3 id="développement-dune-intelligence-artificielle-de-catégorisation-dorganelles-à-partir-dimages">Développement d&amp;rsquo;une intelligence artificielle de catégorisation d&amp;rsquo;organelles à partir d&amp;rsquo;images&lt;/h3></description></item><item><title>Réseau de neurones : catégorisation d'organites cellulaires</title><link>//localhost:1313/portfolio/projects/ia_image/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>//localhost:1313/portfolio/projects/ia_image/</guid><description>&lt;h3 id="développement-dune-intelligence-artificielle-de-catégorisation-dorganelles-à-partir-dimages">Développement d&amp;rsquo;une intelligence artificielle de catégorisation d&amp;rsquo;organelles à partir d&amp;rsquo;images&lt;/h3></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning on Florent Hardy</title><link>//localhost:1313/tags/machine-learning/</link><description>Recent content in Machine Learning on Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>Réseau de neurones : catégorisation d'organites cellulaires</title><link>//localhost:1313/projects/ia_image/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/ia_image/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">En collaboration avec&lt;/th>
+ &lt;th style="text-align: center">Affiliation&lt;/th>
+ &lt;th style="text-align: center">Rôle&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Nicolas Elfering &lt;a href="https://www.linkedin.com/in/nelfering/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Binôme&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">Compétences et technologies&lt;/th>
+ &lt;th style="text-align: center">&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">Python&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://www.tensorflow.org/">TensorFlow&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Résumé :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Dans le cadre de mon Master 2, nous avons développé une intelligence artificielle de catégorisation d&amp;rsquo;organelles à partir d&amp;rsquo;images à l&amp;rsquo;aide de TensorFlow.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>

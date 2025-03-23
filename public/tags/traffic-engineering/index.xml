@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Traffic Engineering on Florent Hardy</title><link>//localhost:1313/portfolio/tags/traffic-engineering/</link><description>Recent content in Traffic Engineering on Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/portfolio/tags/traffic-engineering/index.xml" rel="self" type="application/rss+xml"/><item><title>Stage 2024 : Segment routing 🤝 Flowlet switching</title><link>//localhost:1313/portfolio/projects/sr_flowlet/</link><pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/portfolio/projects/sr_flowlet/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Traffic Engineering on Florent Hardy</title><link>//localhost:1313/tags/traffic-engineering/</link><description>Recent content in Traffic Engineering on Florent Hardy</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/traffic-engineering/index.xml" rel="self" type="application/rss+xml"/><item><title>Projet POKEMON : Monitoring de liens et routeurs</title><link>//localhost:1313/projects/pokemon/</link><pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/pokemon/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">En collaboration avec&lt;/th>
+ &lt;th style="text-align: center">Affiliation&lt;/th>
+ &lt;th style="text-align: center">Rôle&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Benjamin Gliech &lt;a href="https://www.linkedin.com/in/benjamin-gliech/">&lt;img src="//localhost:1313/images/linkedin.svg" alt="Linkedin" width="24px">&lt;/a> &lt;a href="https://github.com/Pinguee">&lt;img src="//localhost:1313/images/github.svg" alt="GitHub" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">étudiant M2 SIRIS&lt;/td>
+ &lt;td style="text-align: center">Binôme&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">Compétences et technologies&lt;/th>
+ &lt;th style="text-align: center">&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">&lt;a href="https://p4.org/">Language P4&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="https://mininet.org/">Mininet&lt;/a>&lt;/td>
+ &lt;td style="text-align: center">Python&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Résumé :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Dans le cadre de mon Master 2, nous avons programmé un outil de monitoring de liens et routeurs à l&amp;rsquo;aide de &lt;a href="https://p4.org/">P4&lt;/a>, du framework &lt;a href="https://github.com/nsg-ethz/p4-utils">P4Utils&lt;/a> et &lt;a href="https://mininet.org/">Mininet&lt;/a>.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Stage 2024 : Segment routing 🤝 Flowlet switching</title><link>//localhost:1313/projects/sr_flowlet/</link><pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/sr_flowlet/</guid><description>&lt;ul>
 &lt;li>Juin 2024 - Juillet 2024&lt;/li>
 &lt;/ul>
 &lt;table>
@@ -11,12 +54,12 @@
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Jean-Romain Luttringer &lt;a href="https://jroluttringer.github.io/">&lt;img src="//localhost:1313/portfolio/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">Jean-Romain Luttringer &lt;a href="https://jroluttringer.github.io/">&lt;img src="//localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
  &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
  &lt;td style="text-align: center">Encadrant&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Pascal Mérindol &lt;a href="https://clarinet.icube.unistra.fr/~merindol/">&lt;img src="//localhost:1313/portfolio/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">Pascal Mérindol &lt;a href="https://clarinet.icube.unistra.fr/~merindol/">&lt;img src="//localhost:1313/images/rss.svg" alt="Portfolio" width="24px">&lt;/a>&lt;/td>
  &lt;td style="text-align: center">enseignant-chercheur à iCube (CNRS)&lt;/td>
  &lt;td style="text-align: center">Encadrant&lt;/td>
  &lt;/tr>
