@@ -41,4 +41,17 @@
  &lt;td style="text-align: left">Dans le cadre de mon Master 2, nous avons créé une application mobile de proposition de recettes à l&amp;rsquo;aide de Flutter et de l&amp;rsquo;API &lt;a href="https://www.themealdb.com/api.php">TheMealDB&lt;/a>.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item></channel></rss>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Détail :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>Le projet consiste à développer une application mobile servant d&amp;rsquo;interface pour l&amp;rsquo;API &lt;a href="https://www.themealdb.com/api.php">TheMealDB&lt;/a>.&lt;/p>
+&lt;p>Le code se trouve sur &lt;a href="https://github.com/BirdEnthusiast123/repapp">GitHub&lt;/a> et le fichier &lt;a href="//localhost:1313/images/app-release.apk">.apk ici&lt;/a>.&lt;/p>
+&lt;p>L&amp;rsquo;application propose des repas aléatoires, un moteur de recherche en fonction des ingrédients ou du nom de la recette.
+Une mémoire pour conserver des repas en favoris.&lt;/p></description></item></channel></rss>

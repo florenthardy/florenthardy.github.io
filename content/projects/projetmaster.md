@@ -39,6 +39,8 @@ Ces informations étaient envoyées pérdiodiquement à une infrastructure, sur 
 
 Cette infrastructure hébergeait également une API, permettant de récolter les informations stockées dans les différentes bases de données, et un site web, sur lequel pouvait se connecter le personnel souhaitant avoir des informations sur les différents véhicules. 
 
+Le rapport est disponible [ici](/images/mémoire_projetmaster_équipe_1.pdf), les diapositives [ici](/images/Soutenance_projet_master.pdf). 
+
 1. Infrastructure
 
 L'infrastructure était découpée en deux sites, le site C315 (principal) et le site OpenStack (backup) dont j'étais responsable. 
@@ -62,6 +64,8 @@ Les moments importants sont (cliquez sur les horaires pour vous y rendre sur la 
   <source src="/images/ansible.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
+
+2. DevOps
 
 Une fois une machine virtuelle configurée, elle peut héberger l'application car elle fait partie du cluster Consul / Nomad qui servent à répartir la tâche sur les différentes VM en distribuant les conteneurs en fonction de la charge que les conteneurs subissent.
 

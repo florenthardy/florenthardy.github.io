@@ -46,13 +46,20 @@
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Dans le cadre de mon stage de fin de Master 2, j&amp;rsquo;étudie la consommation énergétique d&amp;rsquo;équipements réseau programmables, en particulier les Tofino 1 et 2.&lt;/td>
+ &lt;td style="text-align: left">Dans le cadre de mon stage de fin de Master 2, j&amp;rsquo;étudie la consommation énergétique d&amp;rsquo;équipements réseau programmables, en particulier les switch programmables de la marque intel : les Tofino 1 et 2.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;hr>
-&lt;p>Ce projet est en cours de construction&amp;hellip;&lt;/p>
-&lt;p>&lt;img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlubW9ycnphNjZsd2RveDBoNjFybnkwZ3d1czNwMXhzaW90eXFhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tihjRZrTbFNILJksWG/giphy.gif" alt="Page en construction">&lt;/p></description></item><item><title>Projet Master : Infrastructure système et réseau de supervision d'une flotte de véhicules</title><link>//localhost:1313/projects/projetmaster/</link><pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/projetmaster/</guid><description>&lt;ul>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Détail :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>L&amp;rsquo;équipe de recherche &lt;em>Réseaux&lt;/em> du laboratoire iCube (CNRS, Université de Strasbourg&amp;hellip;) m&amp;rsquo;a accueili pour participer au projet &lt;a href="http://garden.icube.unistra.fr/">GARDEN&lt;/a> qui vise à réduire la consommation énergétique des réseaux programmables.&lt;/p></description></item><item><title>Projet Master : Infrastructure système et réseau de supervision d'une flotte de véhicules</title><link>//localhost:1313/projects/projetmaster/</link><pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/projetmaster/</guid><description>&lt;ul>
 &lt;li>Septembre 2024 - Janvier 2025&lt;/li>
 &lt;/ul>
 &lt;table>
@@ -186,7 +193,19 @@
  &lt;td style="text-align: left">Dans le cadre de mon Master 2, nous avons développé une intelligence artificielle de catégorisation d&amp;rsquo;organelles à partir d&amp;rsquo;images à l&amp;rsquo;aide de TensorFlow.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Projet POKEMON : Monitoring de liens et routeurs</title><link>//localhost:1313/projects/pokemon/</link><pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/pokemon/</guid><description>&lt;table>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Détail :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>Le rapport est disponible &lt;a href="//localhost:1313/images/rapport_API.pdf">ici&lt;/a>, le Jupyter notebook &lt;a href="//localhost:1313/images/api.ipynb">ici&lt;/a>.&lt;/p>
+&lt;p>Le projet était une compétition &lt;a href="https://www.kaggle.com/competitions/2024-competion-asi-i-3-d/overview">Kaggle&lt;/a> où il était question d&amp;rsquo;entraîner un réseau de neurones classifiant des images d&amp;rsquo;organelles.
+Le résultat obtenu est une IA qui catégorise correctement, dans 95% des cas, l&amp;rsquo;organelle.&lt;/p></description></item><item><title>Projet POKEMON : Monitoring de liens et routeurs</title><link>//localhost:1313/projects/pokemon/</link><pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/pokemon/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th style="text-align: left">En collaboration avec&lt;/th>
@@ -229,7 +248,17 @@
  &lt;td style="text-align: left">Dans le cadre de mon Master 2, nous avons programmé un outil de monitoring de liens et routeurs à l&amp;rsquo;aide de &lt;a href="https://p4.org/">P4&lt;/a>, du framework &lt;a href="https://github.com/nsg-ethz/p4-utils">P4Utils&lt;/a> et &lt;a href="https://mininet.org/">Mininet&lt;/a>.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>RepApp : L'app des repas</title><link>//localhost:1313/projects/progmobile/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/progmobile/</guid><description>&lt;table>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Détail :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>Le projet consistait à développer un outil de monitoring de switchs programmables et de réparation automatique des tables de routage, en utilisant un programme P4 au sein d&amp;rsquo;une simulation Mininet. Le code est présent sur &lt;a href="https://github.com/BirdEnthusiast123/p4-monitoring">GitHub&lt;/a>&lt;/p></description></item><item><title>RepApp : L'app des repas</title><link>//localhost:1313/projects/progmobile/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/progmobile/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th style="text-align: left">En collaboration avec&lt;/th>
@@ -272,7 +301,20 @@
  &lt;td style="text-align: left">Dans le cadre de mon Master 2, nous avons créé une application mobile de proposition de recettes à l&amp;rsquo;aide de Flutter et de l&amp;rsquo;API &lt;a href="https://www.themealdb.com/api.php">TheMealDB&lt;/a>.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Stage 2024 : Segment routing 🤝 Flowlet switching</title><link>//localhost:1313/projects/sr_flowlet/</link><pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/sr_flowlet/</guid><description>&lt;ul>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Détail :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>Le projet consiste à développer une application mobile servant d&amp;rsquo;interface pour l&amp;rsquo;API &lt;a href="https://www.themealdb.com/api.php">TheMealDB&lt;/a>.&lt;/p>
+&lt;p>Le code se trouve sur &lt;a href="https://github.com/BirdEnthusiast123/repapp">GitHub&lt;/a> et le fichier &lt;a href="//localhost:1313/images/app-release.apk">.apk ici&lt;/a>.&lt;/p>
+&lt;p>L&amp;rsquo;application propose des repas aléatoires, un moteur de recherche en fonction des ingrédients ou du nom de la recette.
+Une mémoire pour conserver des repas en favoris.&lt;/p></description></item><item><title>Stage 2024 : Segment routing 🤝 Flowlet switching</title><link>//localhost:1313/projects/sr_flowlet/</link><pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/sr_flowlet/</guid><description>&lt;ul>
 &lt;li>Juin 2024 - Juillet 2024&lt;/li>
 &lt;/ul>
 &lt;table>
@@ -328,7 +370,17 @@
  &lt;td style="text-align: left">Dans le cadre de mon stage d&amp;rsquo;été après mon Master 1, j&amp;rsquo;ai créé et étudié la performance de la combinaison entre &lt;a href="https://www.segment-routing.net/">Segment Routing&lt;/a> et &lt;a href="https://people.csail.mit.edu/alizadeh/papers/letflow-nsdi17.pdf">Flowlet switching&lt;/a> à l&amp;rsquo;aide de &lt;a href="https://mininet.org/">Mininet&lt;/a> et du framework &lt;a href="https://github.com/nsg-ethz/p4-utils">P4Utils&lt;/a>.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Travail d'étude et de recherche : GOFOR ou le problème de Segment Routing multi-métrique</title><link>//localhost:1313/projects/ter/</link><pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/ter/</guid><description>&lt;ul>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Détail :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>Durant ce stage j&amp;rsquo;ai étudié la performance d&amp;rsquo;une solution que j&amp;rsquo;ai créée qui combine Flowlet Switching et Segment Routing, le tout codé à l&amp;rsquo;aide de P4 et du simulateur Mininet.&lt;/p></description></item><item><title>Travail d'étude et de recherche : GOFOR ou le problème de Segment Routing multi-métrique</title><link>//localhost:1313/projects/ter/</link><pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/ter/</guid><description>&lt;ul>
 &lt;li>Janvier 2024 - Mai 2024&lt;/li>
 &lt;/ul>
 &lt;table>

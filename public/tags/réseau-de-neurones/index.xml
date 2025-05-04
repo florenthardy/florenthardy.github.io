@@ -41,4 +41,16 @@
  &lt;td style="text-align: left">Dans le cadre de mon Master 2, nous avons développé une intelligence artificielle de catégorisation d&amp;rsquo;organelles à partir d&amp;rsquo;images à l&amp;rsquo;aide de TensorFlow.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item></channel></rss>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Détail :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>Le rapport est disponible &lt;a href="//localhost:1313/images/rapport_API.pdf">ici&lt;/a>, le Jupyter notebook &lt;a href="//localhost:1313/images/api.ipynb">ici&lt;/a>.&lt;/p>
+&lt;p>Le projet était une compétition &lt;a href="https://www.kaggle.com/competitions/2024-competion-asi-i-3-d/overview">Kaggle&lt;/a> où il était question d&amp;rsquo;entraîner un réseau de neurones classifiant des images d&amp;rsquo;organelles.
+Le résultat obtenu est une IA qui catégorise correctement, dans 95% des cas, l&amp;rsquo;organelle.&lt;/p></description></item></channel></rss>

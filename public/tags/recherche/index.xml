@@ -46,13 +46,20 @@
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Dans le cadre de mon stage de fin de Master 2, j&amp;rsquo;étudie la consommation énergétique d&amp;rsquo;équipements réseau programmables, en particulier les Tofino 1 et 2.&lt;/td>
+ &lt;td style="text-align: left">Dans le cadre de mon stage de fin de Master 2, j&amp;rsquo;étudie la consommation énergétique d&amp;rsquo;équipements réseau programmables, en particulier les switch programmables de la marque intel : les Tofino 1 et 2.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;hr>
-&lt;p>Ce projet est en cours de construction&amp;hellip;&lt;/p>
-&lt;p>&lt;img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlubW9ycnphNjZsd2RveDBoNjFybnkwZ3d1czNwMXhzaW90eXFhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tihjRZrTbFNILJksWG/giphy.gif" alt="Page en construction">&lt;/p></description></item><item><title>Stage 2024 : Segment routing 🤝 Flowlet switching</title><link>//localhost:1313/projects/sr_flowlet/</link><pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/sr_flowlet/</guid><description>&lt;ul>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Détail :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>L&amp;rsquo;équipe de recherche &lt;em>Réseaux&lt;/em> du laboratoire iCube (CNRS, Université de Strasbourg&amp;hellip;) m&amp;rsquo;a accueili pour participer au projet &lt;a href="http://garden.icube.unistra.fr/">GARDEN&lt;/a> qui vise à réduire la consommation énergétique des réseaux programmables.&lt;/p></description></item><item><title>Stage 2024 : Segment routing 🤝 Flowlet switching</title><link>//localhost:1313/projects/sr_flowlet/</link><pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/sr_flowlet/</guid><description>&lt;ul>
 &lt;li>Juin 2024 - Juillet 2024&lt;/li>
 &lt;/ul>
 &lt;table>
@@ -108,7 +115,17 @@
  &lt;td style="text-align: left">Dans le cadre de mon stage d&amp;rsquo;été après mon Master 1, j&amp;rsquo;ai créé et étudié la performance de la combinaison entre &lt;a href="https://www.segment-routing.net/">Segment Routing&lt;/a> et &lt;a href="https://people.csail.mit.edu/alizadeh/papers/letflow-nsdi17.pdf">Flowlet switching&lt;/a> à l&amp;rsquo;aide de &lt;a href="https://mininet.org/">Mininet&lt;/a> et du framework &lt;a href="https://github.com/nsg-ethz/p4-utils">P4Utils&lt;/a>.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Travail d'étude et de recherche : GOFOR ou le problème de Segment Routing multi-métrique</title><link>//localhost:1313/projects/ter/</link><pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/ter/</guid><description>&lt;ul>
+&lt;/table>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Détail :&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>Durant ce stage j&amp;rsquo;ai étudié la performance d&amp;rsquo;une solution que j&amp;rsquo;ai créée qui combine Flowlet Switching et Segment Routing, le tout codé à l&amp;rsquo;aide de P4 et du simulateur Mininet.&lt;/p></description></item><item><title>Travail d'étude et de recherche : GOFOR ou le problème de Segment Routing multi-métrique</title><link>//localhost:1313/projects/ter/</link><pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/projects/ter/</guid><description>&lt;ul>
 &lt;li>Janvier 2024 - Mai 2024&lt;/li>
 &lt;/ul>
 &lt;table>
