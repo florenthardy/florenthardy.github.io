@@ -1,4 +1,4 @@
-baseURL = "birdenthusiast123.github.io"
+baseURL = "florenthardy.github.io"
 defaultContentLanguage = "fr"
 enableEmoji = true
 enableRobotsTXT = true
@@ -41,7 +41,7 @@ title = "Florent Hardy"
 
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/in/florent-hardy-510bb3165/"},
-    {name = "github", url = "https://github.com/BirdEnthusiast123"},
+    {name = "github", url = "https://github.com/florenthardy"},
     {name = "email", url = "mailto:florent.hardy@unistra.com"}
   ]
 
@@ -71,7 +71,7 @@ title = "Florent Hardy"
     name = "GitHub"
     identifier = "github"
     pre = "<span data-feather='github'></span>"
-    url = "https://github.com/BirdEnthusiast123"
+    url = "https://github.com/florenthardy"
     weight = 4
 
 [markup]
