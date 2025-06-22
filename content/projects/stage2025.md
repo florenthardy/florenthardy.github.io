@@ -23,21 +23,16 @@ tags: ["Recherche", "Réseau", "Réseaux programmables", "Consommation énergét
 | Détail : |
 | :------------------ |
 
-L'équipe de recherche *Réseaux* du laboratoire iCube (CNRS, Université de Strasbourg...) m'a accueili pour participer au projet [GARDEN](http://garden.icube.unistra.fr/) qui vise à réduire la consommation énergétique des réseaux programmables.
+L'équipe de recherche *Réseaux* du laboratoire iCube (CNRS, Université de Strasbourg...) m'a accueili pour participer au projet [GARDEN](http://garden.icube.unistra.fr/) qui vise à étudier la consommation énergétique des réseaux programmables.
 
-Mon rôle dans ce projet est de préparer le terrain, c'est-à-dire trouver un maximum de ressources, en particulier des articles de recherche, des documentations techniques, des rapports etc. qui nous permettront de définir un état de l'art.
-Le but étant de créer de nouvelles connaissances dépassant l'existant et donc ne font pas partie de l'état de l'art.
+En tant que stagiaire je prépare le terrain pour ma thèse qui entrera dans le projet GARDEN.
+Ma première mission pendant ce stage est d'étudier la consommation de switches programmables (Tofino d'intel) afin de produire un modèle capable de prédire la consommation de programmes P4.
+Une fois ce modèle créé, on peut optimiser les programmes P4 afin de réduire leur consommation.
 
-Pour atteindre ce but, je profilerai et modéliserai la consommation énergétique d'un switch programmable afin d'ouvrir la porte à d'autres chercheur.euse.s qui souhaitent étudier d'autres switchs programmables ou définir des applications qui nécessiteraient d'avoir au moins une extimation de la consommation des switchs (protocole, technologie...).
 
-Il me reste plein de paramètres à étudier mais un exemple frappant de l'utilité de cette recherche est que les modélisations passées (dont on peut voir un exemple ci dessous), ne prennent pas en compte la multitude de paramètres que rajoute la programmabilité des switchs.
+Le bilan à mi-parcours de ce stage est disponible [ici](/images/Bilan_à_mi_parcours_Stage_2025-2.pdf), et des [diapositives de présentation](/images/Présentation_25_juin.pdf) pour un séminaire d'équipe sont présentes ci dessous :
 
-![ici](/images/modele.png)
-Ce modèle illustra la consommation énergétique (**P**) en fonction du débit qui traverse le switch (**D**). On remarque que, selon cette modélisation, la consommation évolue de manière linéaire en fonction du débit par rapport aux paramètres (**E**). 
-Mais comme on peut le voir dans la figure plus bas, la consommation énergétique dépend, entre autres, du nombre d'entrées dans les tables de routage et des technologies utilisées pour router.
-Ici on compare alpm qui est un algorithme de découpage d'arbre de préfixe et d'optimisation d'allocation dans les cases mémoires avec le lpm naïf. Et l'on remarque qu'alpm performe bien mieux.
-
-![ici](/images/alpm_vs_lpm.png)
-
-Le bilan à mi-parcours de ce stage est disponible [ici](/images/Bilan_à_mi_parcours_Stage_2025-2.pdf)
+<object data="/images/Présentation_25_juin.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="/images/Présentation_25_juin.pdf">Download</a> instead.</p>
+</object>
 
