@@ -29,4 +29,9 @@ tags: ["Recherche", "Réseau", "Réseaux programmables", "Traffic engineering"]
 
 Durant ce stage j'ai étudié la performance d'une solution que j'ai créée qui combine Flowlet Switching et Segment Routing, le tout codé à l'aide de P4 et du simulateur Mininet.
 
+Flowlet switching est un protocole d'équilibrage de charge réactif aux fluctuations de latence ce qui lui permet de réduire la congestion.
+Il fonctionne en recalculant le port de sortie assigné à un flux si ce dernier a subit des hausses de latence.
 
+Le Segment Routing est une technologie permettant la redéfinition des chemins que doivent suivre les paquets en ajoutant des segments dans les en-têtes.
+
+La combinaison des deux technologies est intéressante pour plein de raisons : le détail de l'analyse de performance est présente dans [ce rapport](images/Rapport_de_stage_2024_ICube-3/pdf).

@@ -38,7 +38,7 @@
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Dans le cadre de mon Master 2, nous avons programmé un outil de monitoring de liens et routeurs à l&amp;rsquo;aide de &lt;a href="https://p4.org/">P4&lt;/a>, du framework &lt;a href="https://github.com/nsg-ethz/p4-utils">P4Utils&lt;/a> et &lt;a href="https://mininet.org/">Mininet&lt;/a>.&lt;/td>
+ &lt;td style="text-align: left">Dans le cadre de mon Master 2, nous avons conçus un protocole et programmé un outil de monitoring de liens et routeurs à l&amp;rsquo;aide de &lt;a href="https://p4.org/">P4&lt;/a> (un langage de programmation pour réseaux programmables), du framework &lt;a href="https://github.com/nsg-ethz/p4-utils">P4Utils&lt;/a> et &lt;a href="https://mininet.org/">Mininet&lt;/a>.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>

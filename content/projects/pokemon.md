@@ -16,7 +16,7 @@ tags: ["Réseau", "Réseaux programmables", "Traffic engineering"]
 
 | Résumé : |
 | :------------------ |
-| Dans le cadre de mon Master 2, nous avons programmé un outil de monitoring de liens et routeurs à l'aide de [P4](https://p4.org/), du framework [P4Utils](https://github.com/nsg-ethz/p4-utils) et [Mininet](https://mininet.org/).| 
+| Dans le cadre de mon Master 2, nous avons conçus un protocole et programmé un outil de monitoring de liens et routeurs à l'aide de [P4](https://p4.org/) (un langage de programmation pour réseaux programmables), du framework [P4Utils](https://github.com/nsg-ethz/p4-utils) et [Mininet](https://mininet.org/).| 
 
 | Détail : |
 | :------------------ |

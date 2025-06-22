@@ -33,7 +33,7 @@ Pour atteindre ce but, je profilerai et modéliserai la consommation énergétiq
 Il me reste plein de paramètres à étudier mais un exemple frappant de l'utilité de cette recherche est que les modélisations passées (dont on peut voir un exemple ci dessous), ne prennent pas en compte la multitude de paramètres que rajoute la programmabilité des switchs.
 
 ![ici](/images/modele.png)
-Ce modèle illustra la consommation énergétique (**P**) en fonction du débit qui traverse le switch (**D**). On remarque que, selon cette modélisation, la consommation évolue de manière linéairement en fonction du débit par rapport aux paramètres (**E**). 
+Ce modèle illustra la consommation énergétique (**P**) en fonction du débit qui traverse le switch (**D**). On remarque que, selon cette modélisation, la consommation évolue de manière linéaire en fonction du débit par rapport aux paramètres (**E**). 
 Mais comme on peut le voir dans la figure plus bas, la consommation énergétique dépend, entre autres, du nombre d'entrées dans les tables de routage et des technologies utilisées pour router.
 Ici on compare alpm qui est un algorithme de découpage d'arbre de préfixe et d'optimisation d'allocation dans les cases mémoires avec le lpm naïf. Et l'on remarque qu'alpm performe bien mieux.
 
