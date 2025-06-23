@@ -21,7 +21,7 @@ tags: ["Réseau", "Réseaux programmables", "Traffic engineering"]
 | Détail : |
 | :------------------ |
 
-Le projet consistait à développer un outil de monitoring de switchs programmables et de réparation automatique des tables de routage, en utilisant un programme P4 au sein d'une simulation Mininet. Le code est présent sur [GitHub](https://github.com/BirdEnthusiast123/p4-monitoring)
+Le projet consistait à développer un outil de monitoring de switchs programmables et de réparation automatique des tables de routage, en utilisant un programme P4 au sein d'une simulation Mininet. Le code est présent sur [GitHub](https://github.com/florenthardy/p4-monitoring)
 
 Le code P4 permet d'avoir l'état des liens entre switchs voisins et l'état des chemins entre switchs distants.
 Un exemple d'affichage se trouve ci dessous : 
