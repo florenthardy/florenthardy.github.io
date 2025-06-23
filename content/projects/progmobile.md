@@ -23,7 +23,7 @@ tags: ["Application mobile"]
 
 Le projet consiste à développer une application mobile servant d'interface pour l'API [TheMealDB](https://www.themealdb.com/api.php).
 
-Le code se trouve sur [GitHub](https://github.com/BirdEnthusiast123/repapp) et le fichier [.apk ici](/images/app-release.apk).
+Le code se trouve sur [GitHub](https://github.com/florenthardy/repapp) et le fichier [.apk ici](/images/app-release.apk).
 
 L'application propose des repas aléatoires, un moteur de recherche en fonction des ingrédients ou du nom de la recette.
 Une mémoire pour conserver des repas en favoris.
