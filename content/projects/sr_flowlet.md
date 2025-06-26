@@ -34,4 +34,4 @@ Il fonctionne en recalculant le port de sortie assigné à un flux si ce dernier
 
 Le Segment Routing est une technologie permettant la redéfinition des chemins que doivent suivre les paquets en ajoutant des segments dans les en-têtes.
 
-La combinaison des deux technologies est intéressante pour plein de raisons : le détail de l'analyse de performance est présente dans [ce rapport](images/Rapport_de_stage_2024_ICube-3/pdf).
+La combinaison des deux technologies est intéressante pour plein de raisons : le détail de l'analyse de performance est présente dans [ce rapport](images/Rapport_de_stage_2024_ICube-3.pdf).
