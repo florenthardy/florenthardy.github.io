@@ -1,12 +1,10 @@
-baseURL = "florenthardy.github.io"
-defaultContentLanguage = "fr"
+baseURL = "https://florenthardy.github.io"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 enableEmoji = true
 enableRobotsTXT = true
-languageCode = "fr"
-# Choose one of emacs, trac or perldoc
 pygmentsStyle = "monokai"
 theme = "gokarna"
-title = "Florent Hardy"
 
 [params]
   avatarAltText = "avatar"
@@ -21,23 +19,19 @@ title = "Florent Hardy"
     <script>
       document.addEventListener("DOMContentLoaded", function() {
         renderMathInElement(document.body, {
-          // customised options
-          // • auto-render specific keys, e.g.:
           delimiters: [
             {left: '$$', right: '$$', display: true},
             {left: '$', right: '$', display: false},
           ],
-          // • rendering keys, e.g.:
           throwOnError : false
         });
       });
     </script>
   """
 
-  description = "Étudiant en Master 2 Informatique : Systèmes et Réseaux; cherchant à devenir chercheur"
   footer = "Florent Hardy"
   metaKeywords = ["portfolio", "cv", "étudiant"]
-  showBackToTopButton = true # true or false for "back to top" button on posts and pages
+  showBackToTopButton = true
 
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/in/florent-hardy-510bb3165/"},
@@ -48,31 +42,64 @@ title = "Florent Hardy"
   showPostsOnHomePage = "recent"
   numberPostsOnHomePage = 3
 
-[menu]
-  [[menu.main]]
-    name = "Accueil"
-    pre = "<span data-feather='home'></span>"
-    url = "/"
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    languageCode = "fr"
     weight = 1
+    title = "Florent Hardy"
+    [languages.fr.params]
+      description = "Doctorant en informatique : Systèmes et Réseaux"
+    [[languages.fr.menu.main]]
+      name = "Accueil"
+      pre = "<span data-feather='home'></span>"
+      url = "/fr/"
+      weight = 1
+    [[languages.fr.menu.main]]
+      name = "Projets"
+      pre = "<span data-feather='code'></span>"
+      url = "/fr/posts/"
+      weight = 2
+    [[languages.fr.menu.main]]
+      name = "Tags"
+      pre = "<span data-feather='tag'></span>"
+      url = "/fr/tags/"
+      weight = 3
+    [[languages.fr.menu.main]]
+      name = "GitHub"
+      identifier = "github"
+      pre = "<span data-feather='github'></span>"
+      url = "https://github.com/florenthardy"
+      weight = 4
 
-  [[menu.main]]
-    name = "Projets"
-    pre = "<span data-feather='code'></span>"
-    url = "/posts/"
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
     weight = 2
-
-  [[menu.main]]
-    name = "Tags"
-    pre = "<span data-feather='tag'></span>"
-    url = "/tags/"
-    weight = 3
-
-  [[menu.main]]
-    name = "GitHub"
-    identifier = "github"
-    pre = "<span data-feather='github'></span>"
-    url = "https://github.com/florenthardy"
-    weight = 4
+    title = "Florent Hardy"
+    [languages.en.params]
+      description = "Ph.D student in Computer Science: Systems and Networks"
+    [[languages.en.menu.main]]
+      name = "Home"
+      pre = "<span data-feather='home'></span>"
+      url = "/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "Projects"
+      pre = "<span data-feather='code'></span>"
+      url = "/posts/"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "Tags"
+      pre = "<span data-feather='tag'></span>"
+      url = "/tags/"
+      weight = 3
+    [[languages.en.menu.main]]
+      name = "GitHub"
+      identifier = "github"
+      pre = "<span data-feather='github'></span>"
+      url = "https://github.com/florenthardy"
+      weight = 4
 
 [markup]
   [markup.tableOfContents]
@@ -83,8 +110,5 @@ title = "Florent Hardy"
     [markup.goldmark.renderer]
       unsafe = true
 
-
 [minify]
-    minifyOutput = true
-
-
+  minifyOutput = true

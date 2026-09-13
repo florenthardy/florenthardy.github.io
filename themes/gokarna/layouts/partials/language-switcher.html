@@ -1,0 +1,19 @@
+<div class="lang-switcher">
+  {{ $currentLang := .Site.Language.Lang }}
+  {{ range .Sites }}
+    {{ if ne .Language.Lang $currentLang }}
+      {{ $targetLang := .Language.Lang }}
+      {{ $targetSite := . }}
+      {{ $translatedURL := "" }}
+      {{ range $.Translations }}
+        {{ if eq .Language.Lang $targetLang }}
+          {{ $translatedURL = .Permalink }}
+        {{ end }}
+      {{ end }}
+      <a href="{{ if $translatedURL }}{{ $translatedURL }}{{ else }}{{ $targetSite.Home.Permalink }}{{ end }}"
+         class="lang-flag" title="{{ $targetSite.Language.LanguageName }}">
+        {{ if eq $targetLang "en" }}🇬🇧{{ else }}🇫🇷{{ end }}
+      </a>
+    {{ end }}
+  {{ end }}
+</div>

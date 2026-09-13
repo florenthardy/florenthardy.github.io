@@ -16,3 +16,9 @@
   other = 'Tags'
 [Posts]
   other = 'Posts'
+[projects_title]
+  other = "Les projets auxquels j'ai participé :"
+[update]
+  other = "Dernière mise à jour le :"
+[lang]
+  other = "fr"

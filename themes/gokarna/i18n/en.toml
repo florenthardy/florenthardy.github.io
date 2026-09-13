@@ -1,7 +1,7 @@
 [Recent]
-  other = 'Projets récents'
+  other = 'Recent projects'
 [Popular]
-  other = 'Projets'
+  other = 'Projects'
 [error404]
   other = 'This page does not exist, go'
 [home]
@@ -15,4 +15,10 @@
 [tags]
   other = 'Tags'
 [Posts]
-    other = 'Projets'
+  other = 'Projects'
+[projects_title]
+  other = "The projects I've worked on:"
+[update]
+  other = "Last updated:"
+[lang]
+  other = "en"

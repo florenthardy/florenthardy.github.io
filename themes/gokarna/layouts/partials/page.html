@@ -29,7 +29,7 @@
                   {{ .ReadingTime }} min read |
               {{ end }}
 
-              dernière mise à jour : {{ dateFormat (or .Site.Params.dateFormat "02/01/2006") .Date }}
+              {{ i18n "update" }} {{ dateFormat (or .Site.Params.dateFormat "02/01/2006") .Date }}
 
               {{ if lt .Date .Lastmod }}
                   | Updated {{ dateFormat (or .Site.Params.dateFormat "02/01/2006") .Lastmod }}

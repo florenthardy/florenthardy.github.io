@@ -2,8 +2,8 @@ document.addEventListener('DOMContentLoaded', ready, false);
 
 const THEME_PREF_STORAGE_KEY = "theme-preference";
 const THEME_TO_ICON_CLASS = {
-    'dark': 'feather-moon',
-    'light': 'feather-sun'
+    'dark': 'feather-sun',
+    'light': 'feather-moon'
 };
 const THEME_TO_ICON_TEXT_CLASS = {
     'dark': 'Dark mode',

@@ -1,0 +1,9 @@
+.lang-flag {
+  font-size: 1.2rem;
+  text-decoration: none;
+  transition: transform 0.15s ease;
+  display: inline-block;
+}
+.lang-flag:hover {
+  transform: scale(1.15);
+}
