@@ -36,7 +36,7 @@ theme = "gokarna"
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/in/florent-hardy-510bb3165/"},
     {name = "github", url = "https://github.com/florenthardy"},
-    {name = "email", url = "mailto:florent.hardy@unistra.com"}
+    {name = "email", url = "mailto:florent.hardy@unistra.fr"}
   ]
 
   showPostsOnHomePage = "recent"
